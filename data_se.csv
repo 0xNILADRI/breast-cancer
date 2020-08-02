@@ -1,4 +1,4 @@
-diagnosis,radius,texture,perimeter,area,smoothness,compactness,concavity,concave points,symmetry,fractal
+diagnosis,radius,texture,perimeter,area,smoothness,compactness,concavity,concave points,symmetry,fractal_dimension
 M,1.095,0.9053,8.589,153.4,0.006399,0.04904,0.05372999999999999,0.01587,0.03003,0.006193
 M,0.5435,0.7339,3.398,74.08,0.005225,0.013080000000000001,0.0186,0.0134,0.013890000000000001,0.003532
 M,0.7456,0.7869,4.585,94.03,0.00615,0.040060000000000005,0.03832,0.02058,0.0225,0.004571
