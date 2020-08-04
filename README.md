@@ -1,12 +1,30 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/ef8a2c6fd42d46d5940f2f0b6ada9ba6)](https://www.codacy.com/manual/niladrihere/breast-cancer?utm_source=github.com&utm_medium=referral&utm_content=niladrihere/breast-cancer&utm_campaign=Badge_Grade)
+
 # In-depth Analysis of Breast Cancer Dataset
 
 <hr>
 
-## Breast Cancer in US
+## Overview - Breast Cancer in US
 
 In 2019, an estimated 268,600 new cases of invasive breast cancer will be diagnosed in women in the U.S. as well as 62,930 new cases of non-invasive (in situ) breast cancer. 62% of breast cancer cases are diagnosed at a localized stage, for which the 5-year survival rate is 99%. This year, an estimated 41,760 women will die from breast cancer in the U.S. Although rare, men get breast cancer too. The lifetime risk for U.S. men is about 1 in 1,000. An estimated 2,670 men will be diagnosed with breast cancer this year in the United States and approximately 500 will die. 1 in 8 women in the United States will develop breast cancer in her lifetime. Breast cancer is the most common cancer in American women, except for skin cancers. There are over 3.5 million breast cancer survivors in the United States. On average, every 2 minutes a woman is diagnosed with breast cancer in the United States. Female breast cancer represents 15.2% of all new cancer cases in the U.S.
 
 Source : <a href="https://www.nationalbreastcancer.org/breast-cancer-facts#:~:text=In%202019%2C%20an%20estimated%20268%2C600,year%20survival%20rate%20is%2099%25." style="text-decoration: none;">NationalBreastCancer.org</a>
+
+<hr>
+
+#### Python libraries used:
+
+      1.Numpy
+      2.Panadas
+      3.Matplotlib.pyplot
+      4.Seaborn
+
+#### Data Sets:
+
+      1.data.csv
+      2.data_mean.csv
+      3.data_se.csv
+      4.data_worst.csv
 
 <hr>
 
