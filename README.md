@@ -2,7 +2,7 @@
 
 <hr>
 
-## Breast Cancer in US.
+## Breast Cancer in US
 
 In 2019, an estimated 268,600 new cases of invasive breast cancer will be diagnosed in women in the U.S. as well as 62,930 new cases of non-invasive (in situ) breast cancer. 62% of breast cancer cases are diagnosed at a localized stage, for which the 5-year survival rate is 99%. This year, an estimated 41,760 women will die from breast cancer in the U.S. Although rare, men get breast cancer too. The lifetime risk for U.S. men is about 1 in 1,000. An estimated 2,670 men will be diagnosed with breast cancer this year in the United States and approximately 500 will die. 1 in 8 women in the United States will develop breast cancer in her lifetime. Breast cancer is the most common cancer in American women, except for skin cancers. There are over 3.5 million breast cancer survivors in the United States. On average, every 2 minutes a woman is diagnosed with breast cancer in the United States. Female breast cancer represents 15.2% of all new cancer cases in the U.S.
 
